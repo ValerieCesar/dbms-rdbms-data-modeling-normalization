@@ -42,3 +42,6 @@ A **Relational Database Management System (RDBMS)** is a specific type of DBMS t
 - **DBMS** is useful for smaller datasets or single-user applications.
 - **RDBMS** is preferred for structured, multi-user environments with integrity constraints.
 - Understanding this difference is critical to choosing the right database solution.
+
+![image](https://github.com/user-attachments/assets/01fdface-d25d-4886-a924-84a3bceee6ab)
+
