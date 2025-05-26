@@ -6,7 +6,6 @@ CREATE TABLE departments (
     dept_location VARCHAR(100)
 );
 
-![Image](https://github.com/user-attachments/assets/338f1f60-5aa0-47c3-bfda-afa997056c1d)
 
 ![Image](https://github.com/user-attachments/assets/0e086056-55cd-4922-ba91-20e0b82c1c35)
 
